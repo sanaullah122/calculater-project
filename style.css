@@ -40,8 +40,7 @@ body{
      padding: 10px;
     background-color: #A7AF7C;
     border-radius: 20px;
-    text-align: center;
-    margin-top: 50px;
+
 }
 
 .calculator span{
@@ -123,6 +122,6 @@ body{
      border-top: 1px solid #fff4; 
 }
  span{
-    padding-top: 22px;
+    padding-top: 20px;
     
  }
