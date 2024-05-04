@@ -20,6 +20,7 @@ body{
         border-radius: 20px;
         box-shadow: 0px 0px 10px rgba(0,0,0,0.2),
          0px 0px 10px rgba(0,0,0,0.2);  
+         
       }
       
 .calculator{
@@ -39,7 +40,8 @@ body{
      padding: 10px;
     background-color: #A7AF7C;
     border-radius: 20px;
-    text-align: right;
+    text-align: center;
+    margin-top: 50px;
 }
 
 .calculator span{
@@ -60,6 +62,7 @@ body{
      user-select: none;
      font-weight: 400;
      border: 2px solid #000000;
+    
 
 }
 
@@ -77,6 +80,7 @@ body{
      border-left: 1px solid #0004;
      border-bottom: 1px solid #0004;
      border-top: 1px solid #0009;
+    text-align: center;
     } 
 
 .calculator span:active{
@@ -118,3 +122,7 @@ body{
      border-bottom: 1px solid #fff4;
      border-top: 1px solid #fff4; 
 }
+ span{
+    padding-top: 22px;
+    
+ }
